@@ -1,4 +1,4 @@
-# IPV6-chat-in-C
+# IPV6-Chatprogramm in C
 
 
 ## Projekt ##
